@@ -1,0 +1,16 @@
+.rating-element-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 0px;
+}
+.rating-logo {
+  width: 120px;
+  margin-right: 10px;
+}
+.starts-up {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+}

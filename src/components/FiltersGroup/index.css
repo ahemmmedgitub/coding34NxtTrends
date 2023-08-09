@@ -1,0 +1,28 @@
+.filters-group-container {
+  margin-top: 14px;
+  list-style-type: none;
+}
+
+@media screen and (min-width: 768px) {
+  .filters-group-container {
+    width: 30%;
+    max-width: 350px;
+    margin-top: 48px;
+    flex-shrink: 0;
+    margin-top: 20px;
+  }
+}
+
+/* Write your CSS here */
+
+.filtered-btn {
+  background-color: transparent;
+  border: none;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  color: #64748b;
+}
+.rating-main-container {
+  background-color: #ffffffff;
+}
